@@ -1,0 +1,11 @@
+F:\repos\VCDisconnect\bin\Debug\VCDisconnect.exe.config
+F:\repos\VCDisconnect\bin\Debug\VCDisconnect.exe
+F:\repos\VCDisconnect\bin\Debug\VCDisconnect.pdb
+F:\repos\VCDisconnect\bin\Debug\Newtonsoft.Json.dll
+F:\repos\VCDisconnect\bin\Debug\Newtonsoft.Json.xml
+F:\repos\VCDisconnect\obj\Debug\VCDisconnect.csproj.AssemblyReference.cache
+F:\repos\VCDisconnect\obj\Debug\VCDisconnect.csproj.SuggestedBindingRedirects.cache
+F:\repos\VCDisconnect\obj\Debug\VCDisconnect.csproj.CoreCompileInputs.cache
+F:\repos\VCDisconnect\obj\Debug\VCDisconnect.csproj.CopyComplete
+F:\repos\VCDisconnect\obj\Debug\VCDisconnect.exe
+F:\repos\VCDisconnect\obj\Debug\VCDisconnect.pdb
